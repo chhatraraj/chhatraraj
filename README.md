@@ -37,9 +37,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chhatraraj&show_icons=true&locale=en&layout=compact" alt="chhatraraj" />
 </p>
 <p align="right">
-  &nbsp;<img style="margin-top: -27px;" src="https://github-readme-stats.vercel.app/api?username=chhatraraj&show_icons=true&locale=en" alt="chhatraraj" />
+  &nbsp;<img style="margin-top: -39px;" src="https://github-readme-stats.vercel.app/api?username=chhatraraj&show_icons=true&locale=en" alt="chhatraraj" />
 </p>
 
 <p>
-  <img align="center" style="margin-top: -21px;" src="https://github-readme-streak-stats.herokuapp.com/?user=chhatraraj&" alt="chhatraraj" />
+  <img align="center" style="margin-top: -27px;" src="https://github-readme-streak-stats.herokuapp.com/?user=chhatraraj&" alt="chhatraraj" />
 </p>
