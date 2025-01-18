@@ -44,6 +44,6 @@
 
 <h3 align="left">Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chhatraraj&theme=blue-green" alt="GitHub Streak Stats" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhatraraj&layout=compact&langs_count=10&theme=blue-green" alt="Top Languages" />
 </p>
