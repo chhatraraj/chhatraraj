@@ -9,7 +9,7 @@
 - 📫 How to reach me: **chhatraneupane999@gmail.com**  
 - ⚡ Fun fact: **Lighthearted and Curious**
 
-   -    🌌 -   ⚡  One just imagine Sisyphus happy . . . 
+   -    🌌  -   ⚡  One just imagine Sisyphus happy . . . 
 
 ---
 
