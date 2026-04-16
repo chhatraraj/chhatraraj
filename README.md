@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Chhatra Raj Neupane</h1>
-<h3 align="center">A Passionate Computer Engineer from Nepal 🇳🇵</h3>
+<h1 align="center">Hi , I'm Chhatra Raj Neupane</h1>
+<h3 align="center">A Passionate Computer Engineer from Nepal</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chhatraraj&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
