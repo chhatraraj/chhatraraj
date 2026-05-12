@@ -9,10 +9,10 @@
 
 ## 👨‍💻 About Me
 
-- 💬 Ask me about **React, Node.js, Flask, Django**
+- 💬 Ask me about **React, Node.js, FastApi**
 - 🌱 Currently exploring **Machine Learning** with practical implementation
 - 📫 Reach me at **chhatraneupane999@gmail.com**
-- ⚡ Fun fact: *Lighthearted and curious*
+
 
 ---
 
@@ -20,7 +20,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,java,js,nodejs,react,python,django,flask,mysql,postgres,mongodb,docker&perline=6" />
+<img src="https://skillicons.dev/icons?i=git,js,nodejs,react,python,fastApi,postgres,mongodb,docker&perline=6" />
 
 </p>
 
@@ -29,7 +29,7 @@
 ## 📌 Tech Stack
 
 - **Frontend:** React, JavaScript  
-- **Backend:** Node.js, Flask, Django  
+- **Backend:** Node.js, Express, FastApi,  
 - **Database:** MySQL, PostgreSQL, MongoDB  
 - **Tools:** Git, Docker  
 
